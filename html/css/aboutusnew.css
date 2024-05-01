@@ -78,7 +78,7 @@
  article:hover .front {
 	 transform: rotateY(-180deg);
 }
- article:hover .front .text {
+ article:hover .front .text z{
 	 transform: translate3d(-200%, 0, 0);
 	 opacity: 0;
 }
@@ -89,24 +89,30 @@
 	 transform: translate3d(0, 0, 0);
 	 opacity: 1;
 }
- article:nth-child(1) .front {
-	 background-image: url(html/images/testing.jpg);
+article:nth-child(1) .front {
+    background-image: url(./../images/thirdimage.jpg);
 }
- article:nth-child(1) .front h1:before {
-	 background-image: url(https://demo.devolk.blog/cosmos/galaxy.svg);
+
+article:nth-child(1) .front:before {
+    background-image: url(https://demo.devolk.blog/cosmos/galaxy.svg);
 }
- article:nth-child(2) .front {
-	 background-image: url(https://images.pexels.com/photos/35600/road-sun-rays-path.jpg?w=1260&h=750&auto=compress&cs=tinysrgb);
+
+article:nth-child(2) .front {
+    background-image: url(https://images.pexels.com/photos/35600/road-sun-rays-path.jpg?w=1260&h=750&auto=compress&cs=tinysrgb);
 }
- article:nth-child(2) .front h1:before {
-	 background-image: url(https://demo.devolk.blog/cosmos/light.svg);
+
+article:nth-child(2) .front:before {
+    background-image: url(https://demo.devolk.blog/cosmos/light.svg);
 }
- article:nth-child(3) .front {
-	 background-image: url(html/images/testing.jpg);
+
+article:nth-child(3) .front {
+    background-image: url(./../images/testing.jpg);
 }
- article:nth-child(3) .front h1:before {
-	 background-image: url(html/images/testing.jpg);
+
+article:nth-child(3) .front:before {
+    background-image: url(https://demo.devolk.blog/cosmos/light.svg);
 }
+
  .auth {
 	 position: absolute;
 	 bottom: 1em;
