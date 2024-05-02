@@ -122,4 +122,28 @@ article:nth-child(3) .front:before {
 	 color: #ccc;
 	 text-decoration: none;
 }
- 
+ @media (max-width: 768px) {
+  .about_section {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .about_section .v-center {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .about_section article {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .about_section article .front,
+  .about_section article .back {
+    width: 100%;
+  }
+
+  .about_section article .text {
+    text-align: center;
+  }
+}

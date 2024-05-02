@@ -138,7 +138,7 @@ p {
 }
 
 a {
-     color: #222222;
+     color: #ffb607;
      text-decoration: none;
      outline: none !important;
 }
@@ -1034,3 +1034,20 @@ textarea#comment::placeholder {
   text-transform: uppercase;
   text-align: center;
 }
+         @media only screen and (max-width: 768px) {
+            .who_section {
+               padding: 20px;
+            }
+
+            .who_taital {
+               font-size: 1.5rem;
+            }
+
+            .designer_text {
+               font-size: 1.2rem;
+            }
+
+            .who_we_are {
+               font-size: 1rem;
+            }
+         }
