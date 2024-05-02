@@ -90,7 +90,7 @@
 	 opacity: 1;
 }
 article:nth-child(1) .front {
-    background-image: url(./../images/testing.jpg);
+    background-image: url(./../images/hardware.jpg);
 }
 
 article:nth-child(1) .front:before {
@@ -98,7 +98,7 @@ article:nth-child(1) .front:before {
 }
 
 article:nth-child(2) .front {
-    background-image: url(https://images.pexels.com/photos/35600/road-sun-rays-path.jpg?w=1260&h=750&auto=compress&cs=tinysrgb);
+    background-image: url(./../images/glesi.jpg);
 }
 
 article:nth-child(2) .front:before {
@@ -106,7 +106,7 @@ article:nth-child(2) .front:before {
 }
 
 .thirdarticle .front  {
-    background-image: url(./../images/thirdimage.jpg);
+    background-image: url(./../images/ngumu.jpg);
 }
 
 article:nth-child(3) .front:before {
