@@ -42,7 +42,7 @@ html {
 body {
      color: #666666;
      font-size: 14px;
-     font-family:"Poppins", SansSerif;
+     font-family:"Open Sans Semibold", SansSerif;
      line-height: 1.80857;
      font-weight: normal;
      overflow-x: hidden;
@@ -133,7 +133,7 @@ ol {
 p {
      margin: 20px;
      font-weight: 300;
-     font-size: 15px;
+     font-size: 21px;
      line-height: 24px;
 }
 
@@ -384,7 +384,7 @@ button {
     float: left;
     padding-bottom: 90px;
 }
-.services_taital{
+.services_total{
     width: 100%;
     float: left;
     font-size: 36px;
@@ -392,10 +392,10 @@ button {
     text-align: center;
     text-transform: uppercase;
 }
-.many_taital{
+.many_total{
     width: 100%;
     float: left;
-    font-size: 16px;
+    font-size: 22px;
     color: #090808;
     text-align: center;
     margin-left: 0px;
@@ -457,7 +457,7 @@ button {
 }
 .image_1{
     width: 100%;
-    float: left; 
+    float: left;
 }
 
 .about_text {
@@ -476,7 +476,7 @@ button {
     margin-left: 0px;
     padding-top: 40px;
     line-height: 35px;
-    
+
 }
 .read_bt1 {
     width: 30%;
@@ -514,7 +514,7 @@ button {
 .ipsum_text{
     width: 100%;
     float: left;
-    font-size: 16px;
+    font-size: 22px;
     color: #090808;
     text-align: center;
     margin-left: 0px;
@@ -537,8 +537,8 @@ a:hover {
 }
 .image {
   display: block;
-  width: 100%;
-  height: auto;
+  width: 720px;
+  height: 420px;
 }
 
 .overlay {
@@ -599,7 +599,7 @@ a:hover {
     padding-bottom: 55px;
     background-size: 100%;
 }
-.who_taital{
+.who_total{
     width: 100%;
     float: left;
     font-size: 36px;
@@ -664,57 +664,19 @@ a:hover {
     width: 100%;
 }
 
-.image {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
-}
 
-.middle {
-    transition: .5s ease;
-    opacity: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    text-align: center;
-    z-index: 99999;
-}
 
-.container_main1:hover .image {
-  opacity: 0.3;
-}
-
-.container_main1:hover .middle {
-  opacity: 1;
-}
 
 .text {
     color: #fff;
-    font-size: 16px;
+    font-size: 26px;
     padding: 10px 20px;
 }
 .container_main2 {
     width: 100%;
     float: left;
 }
-.container_main1::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    width: 92%;
-    height: 90%;
-    background-color: rgb(255,182,7,.6);
-    z-index: 11;
-    display: none;
-}
-.container_main1:hover::after{
-    display: block;
-}
+
 .modern_text {
     width: 100%;
     float: left;
@@ -791,14 +753,14 @@ a:hover {
 .loksans_text{
     width: 100%;
     float: left;
-    font-size: 20px; 
+    font-size: 20px;
     color: #191919;
     text-transform: uppercase;
 }
 .dolor_ipsum_text{
     width: 100%;
     float: left;
-    font-size: 16px; 
+    font-size: 16px;
     color: #191919;
     margin-left: 0px;
     margin-top: 0px;
@@ -1012,19 +974,14 @@ textarea#comment::placeholder {
     color: #fdbe28;
 }
 
-.jumping-letter{
-    display: inline-block;
-    animation: jump 0.5s infinite alternate;
-    font-weight: bold;
-    font-family: "Inter", sans-serif;
-    font-size: 58px;
-}
 .who_we_are{
-    width: 100%;
-    float: left;
-    font-size: 18px;
-    color: black;
-    text-align: center;
+    display: block;
+    width: 80%; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the block */
+    padding: 20px; /* Add padding for spacing */
+    font-size: 27px; /* Adjust font size as needed */
+    line-height: 1.5; /* Improve readability with line height */
+    text-align: center; /* Center the text */
 }
 .thisisheading{
   width: 100%;
@@ -1039,7 +996,7 @@ textarea#comment::placeholder {
                padding: 20px;
             }
 
-            .who_taital {
+            .who_total {
                font-size: 1.5rem;
             }
 
@@ -1051,3 +1008,5 @@ textarea#comment::placeholder {
                font-size: 1rem;
             }
          }
+
+
