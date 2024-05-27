@@ -16,10 +16,12 @@
       <!-- bootstrap css -->
       <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
       <!-- style css -->
+      <link rel="stylesheet" href="css/shop.css">
       <link rel="stylesheet" type="text/css" href="css/style.css">
+
       <!-- Responsive-->
       <link rel="stylesheet" href="css/responsive.css">
-      <!-- fevicon -->
+      <!-- favicon -->
       <link rel="icon" href="images/favicon-16x16.png" type="image/gif" />
       <!-- Scrollbar Custom CSS -->
       <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
@@ -46,10 +48,10 @@
                         <a class="nav-link" href="index.html">Home</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="services.html">services</a>
+                        <a class="nav-link" href="shop.html">shop</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="shop.html">Shop</a>
+                        <a class="nav-link" href="services.html">services</a>
                      </li>
                      <li class="nav-item">
                         <a class="nav-link" href="contact.html">Contact</a>
@@ -63,42 +65,25 @@
          </div>
       </div>
       <!-- header section end -->
-      <!-- furnitures section start -->
-      <div class="furnitures_section layout_padding">
-         <div class="container">
-            <h1 class="our_text">OUR furnitures</h1>
-            <p class="ipsum_text">There are many variations of passages of Lorem Ipsum </p>
-            <div class="furnitures_section2 layout_padding">
-               <div class="row">
-                  <div class="col-md-6">
-                     <div class="container_main">
-                        <img src="images/img-2.png" alt="Avatar" class="image">
-                        <div class="overlay">
-                           <a href="#" class="icon" title="User Profile">
-                           <i class="fa fa-search"></i>
-                           </a>
-                        </div>
-                     </div>
-                     <h3 class="temper_text">Tempor incididunt ut labore et dolore</h3>
-                     <p class="dololr_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
-                  </div>
-                  <div class="col-md-6">
-                     <div class="container_main">
-                        <img src="images/img-3.png" alt="Avatar" class="image">
-                        <div class="overlay">
-                           <a href="#" class="icon" title="User Profile">
-                           <i class="fa fa-search"></i>
-                           </a>
-                        </div>
-                     </div>
-                     <h3 class="temper_text">Tempor incididunt ut labore et dolore</h3>
-                     <p class="dololr_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
-                  </div>
-               </div>
+      <!-- shop section start -->
+    <div class="container" id="product-container">
+        <!-- Products will be injected here by JavaScript -->
+    </div>
+
+    <div id="product-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button" onclick="closeModal()">&times;</span>
+            <img id="product-image" src="" alt="Product Image">
+            <div class="product-details">
+                <h2 id="product-name"></h2>
+                <p id="product-price"></p>
+                <p id="product-condition"></p>
+                <p id="product-model"></p>
+                <div class="read_bt"><a href="contact.html">INQUIRE </a></div>
             </div>
-         </div>
-      </div>
-      <!-- furniture section end -->
+        </div>
+    </div>
+      <!-- shop section end -->
       <!-- footer section start -->
       <div class="footer_section layout_padding">
          <div class="container">
@@ -118,9 +103,9 @@
                <div class="col-lg-3 col-sm-6">
                   <h1 class="customer_text">QUICK LINKS</h1>
                   <p class="footer_lorem_text1"><a href="index.html">About Us</a><br>
+                     <a href="shop.html">Shop with us</a><br>
                      <a href="contact.html">Contact Us</a><br>
                      <a href="services.html">Services offered</a><br>
-                     <a href="shop.html">View our products</a><br>
                   </p>
                </div>
                <div class="col-lg-3 col-sm-6">
@@ -153,6 +138,7 @@
       </div>
       <!-- copyright section end -->
       <!-- Javascript files-->
+      <script src="js/shop.js"></script>
       <script src="js/jquery.min.js"></script>
       <script src="js/popper.min.js"></script>
       <script src="js/bootstrap.bundle.min.js"></script>
