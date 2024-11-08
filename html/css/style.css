@@ -406,7 +406,7 @@ button {
     width: 100%;
     float: left;
 }
-.furnitures_text {
+.furniture_text {
     width: 100%;
     float: left;
     font-size: 24px;
@@ -499,7 +499,7 @@ button {
     color: #000;
     background-color: #ffffff;
 }
-.furnitures_section {
+.furniture_section {
     width: 100%;
     float: left;
     padding-bottom: 90px;
@@ -521,7 +521,7 @@ button {
     margin-left: 0px;
     margin-top: 10px;
 }
-.furnitures_section2{
+.furniture_section2{
     width: 100%;
     float: left;
 }
@@ -832,7 +832,7 @@ input.email-bt::placeholder {
     border: 0px;
     border-radius: 5px;
 }
-textarea#comment::placeholder {
+text_area#comment::placeholder {
     color: #989696;
 }
 .send_bt {

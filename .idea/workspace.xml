@@ -8,114 +8,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6427cc4-3396-467f-b337-4e19664b03a7" name="Changes" comment="minor changes made">
-      <change afterPath="$PROJECT_DIR$/html/css/shop.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/images/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/images/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/js/shop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/aboutusnew.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/default-skin.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/icomoon.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/jquery-ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/jquery.fancybox.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/jquery.mCustomScrollbar.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/meanmenu.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/nice-select.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/owl.carousel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/slick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/shop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner-bg1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/contact-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/exactlogoblack.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/exactlogomixed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/exactlogowhite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fb-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/footer-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/glesi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/hardware.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/header-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icon-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icon-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icon-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icon-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/left-arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/linkedin-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ngumu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic1final.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic6.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic7.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/quote-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/right-arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/search-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/testing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thirdimage.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/twitter-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/undraw-contact.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/animateletters.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-3.0.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.mCustomScrollbar.concat.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.validate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/modernizer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/slider-setting.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/css/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/images/pic6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/html/images/pic6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/js/jquery.mCustomScrollbar.concat.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/js/jquery.validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/jquery.validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/js/modernizer.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/modernizer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/js/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.mCustomScrollbar.concat.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modernizer.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/modernizer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/shop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,6 +85,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rayfromroblox&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rayfromroblox/exactpointventures.git&quot;,
+    &quot;accountId&quot;: &quot;7dce522e-b6dd-4fe3-81b4-e47d61c0c424&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -142,22 +105,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/r4y/Desktop/workspace/richard",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/r4y/Desktop/workspace/richard&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/html/images" />
@@ -166,8 +130,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
-        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -195,6 +159,12 @@
       <workItem from="1716743316502" duration="372000" />
       <workItem from="1716802024140" duration="4612000" />
       <workItem from="1716835369892" duration="464000" />
+      <workItem from="1730835813612" duration="144000" />
+      <workItem from="1730835968709" duration="795000" />
+      <workItem from="1731094029039" duration="1081000" />
+      <workItem from="1731095133370" duration="97000" />
+      <workItem from="1731095235848" duration="948000" />
+      <workItem from="1731098899344" duration="5695000" />
     </task>
     <task id="LOCAL-00001" summary="removed the newsletter thing on all pages">
       <option name="closed" value="true" />

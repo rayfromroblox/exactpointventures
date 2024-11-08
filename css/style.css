@@ -5,9 +5,8 @@
 @import url('https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700');
 @import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 @font-face {
-font-family: "Righteous";
-src: url("../fonts/BalooChettan-Regular.ttf");
-src: url("../fonts/BalooChettan-Regular.ttf");
+    font-family: "Righteous";
+    src: url("../fonts/BalooChettan-Regular.ttf");
 }
 /*****---------------------------------------- 1) font-family: 'Rajdhani', sans-serif;
  2) font-family: 'Poppins', sans-serif;
@@ -42,9 +41,7 @@ html {
 body {
      color: #666666;
      font-size: 14px;
-     font-family:"Open Sans Semibold", SansSerif;
-     line-height: 1.80857;
-     font-weight: normal;
+     font-family: 'Inter', sans-serif;     font-weight: normal;
      overflow-x: hidden;
 }
 
@@ -405,7 +402,7 @@ button {
     width: 100%;
     float: left;
 }
-.furnitures_text {
+.furniture_text {
     width: 100%;
     float: left;
     font-size: 24px;
@@ -498,7 +495,7 @@ button {
     color: #000;
     background-color: #ffffff;
 }
-.furnitures_section {
+.furniture_section {
     width: 100%;
     float: left;
     padding-bottom: 90px;
@@ -520,7 +517,7 @@ button {
     margin-left: 0px;
     margin-top: 10px;
 }
-.furnitures_section2{
+.furniture_section2{
     width: 100%;
     float: left;
 }
@@ -800,38 +797,35 @@ a:hover {
     width: 100%;
     float: left;
 }
-.contact_text{
+.contact_text {
     width: 100%;
     float: left;
     font-size: 36px;
     color: #ffffff;
     font-family: "Helvetica Neue", sans-serif;
-
 }
-.email-bt {
-    color: #989696;
+.email-bt,
+.massage-bt {
+    color: #000; /* Dark color for user input text */
     width: 100%;
-    height: 55px;
+    font-weight: 600; /* Bold-ish look */
     font-size: 18px;
     padding: 20px;
     margin-top: 25px;
-    border: 0px;
+    border: 0;
     border-radius: 5px;
+    background-color: #f7f7f7; /* Slight background color for better visibility */
 }
-input.email-bt::placeholder {
-    color: #989696;
+.email-bt::placeholder,
+.massage-bt::placeholder {
+    color: #989696; /* Light gray color for placeholder */
+    font-weight: 300; /* Light font weight for placeholder */
 }
 .massage-bt {
-    color: #989696;
-    width: 100%;
     height: 150px;
-    font-size: 18px;
-    padding: 50px 20px 10px 20px;
-    margin-top: 25px;
-    border: 0px;
-    border-radius: 5px;
+    padding: 20px;
 }
-textarea#comment::placeholder {
+text_area#comment::placeholder {
     color: #989696;
 }
 .send_bt {
@@ -1008,5 +1002,29 @@ textarea#comment::placeholder {
                font-size: 1rem;
             }
          }
+#sendButton {
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+    background: linear-gradient(90deg, #00c6ff, #0072ff);
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    box-shadow: 0 5px 15px rgba(0, 114, 255, 0.4);
+    transition: all 0.3s ease;
+}
+
+#sendButton:hover {
+    background: linear-gradient(90deg, #0072ff, #00c6ff);
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(0, 114, 255, 0.6);
+}
+
+#sendButton:active {
+    transform: scale(0.98);
+    box-shadow: 0 5px 10px rgba(0, 114, 255, 0.3);
+}
 
 

@@ -426,7 +426,7 @@ $.extend( $.validator, {
 
 			$( this.currentForm )
 				.on( "focusin.validate focusout.validate keyup.validate",
-					":text, [type='password'], [type='file'], select, textarea, [type='number'], [type='search'], " +
+					":text, [type='password'], [type='file'], select, text_area, [type='number'], [type='search'], " +
 					"[type='tel'], [type='url'], [type='email'], [type='datetime'], [type='date'], [type='month'], " +
 					"[type='week'], [type='time'], [type='datetime-local'], [type='range'], [type='color'], " +
 					"[type='radio'], [type='checkbox'], [contenteditable], [type='button']", delegate )
@@ -634,7 +634,7 @@ $.extend( $.validator, {
 
 			// Select all valid inputs inside the form (no submit or reset buttons)
 			return $( this.currentForm )
-			.find( "input, select, textarea, [contenteditable]" )
+			.find( "input, select, text_area, [contenteditable]" )
 			.not( ":submit, :reset, :image, :disabled" )
 			.not( this.settings.ignore )
 			.filter( function() {
@@ -699,7 +699,7 @@ $.extend( $.validator, {
 			if ( type === "radio" || type === "checkbox" ) {
 				return this.findByName( element.name ).filter( ":checked" ).val();
 			} else if ( type === "number" && typeof element.validity !== "undefined" ) {
-				return element.validity.badInput ? "NaN" : $element.val();
+				return element.validity.badinput ? "NaN" : $element.val();
 			}
 
 			if ( element.hasAttribute( "contenteditable" ) ) {

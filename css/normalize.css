@@ -232,7 +232,7 @@ button,
 input,
 optgroup,
 select,
-textarea {
+text_area {
   margin: 0;
 }
 
@@ -322,7 +322,7 @@ progress {
  * Remove the default vertical scrollbar in IE.
  */
 
-textarea {
+text_area {
   overflow: auto;
 }
 

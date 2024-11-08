@@ -401,7 +401,7 @@
     var Selector = {
       DATA_TOGGLE_CARROT: '[data-toggle^="button"]',
       DATA_TOGGLE: '[data-toggle="buttons"]',
-      INPUT: 'input',
+      input: 'input',
       ACTIVE: '.active',
       BUTTON: '.btn'
     };
@@ -433,7 +433,7 @@
         var rootElement = $$$1(this._element).closest(Selector.DATA_TOGGLE)[0];
 
         if (rootElement) {
-          var input = $$$1(this._element).find(Selector.INPUT)[0];
+          var input = $$$1(this._element).find(Selector.input)[0];
 
           if (input) {
             if (input.type === 'radio') {
@@ -778,7 +778,7 @@
       };
 
       _proto._keydown = function _keydown(event) {
-        if (/input|textarea/i.test(event.target.tagName)) {
+        if (/input|text_area/i.test(event.target.tagName)) {
           return;
         }
 
@@ -1737,7 +1737,7 @@
             continue;
           }
 
-          if (event && (event.type === 'click' && /input|textarea/i.test(event.target.tagName) || event.type === 'keyup' && event.which === TAB_KEYCODE) && $$$1.contains(parent, event.target)) {
+          if (event && (event.type === 'click' && /input|text_area/i.test(event.target.tagName) || event.type === 'keyup' && event.which === TAB_KEYCODE) && $$$1.contains(parent, event.target)) {
             continue;
           }
 
@@ -1773,14 +1773,14 @@
 
 
       Dropdown._dataApiKeydownHandler = function _dataApiKeydownHandler(event) {
-        // If not input/textarea:
+        // If not input/text_area:
         //  - And not a key in REGEXP_KEYDOWN => not a dropdown command
-        // If input/textarea:
+        // If input/text_area:
         //  - If space key => not a dropdown command
         //  - If key is other than escape
         //    - If key is not up or down => not a dropdown command
         //    - If trigger inside the menu => not a dropdown command
-        if (/input|textarea/i.test(event.target.tagName) ? event.which === SPACE_KEYCODE || event.which !== ESCAPE_KEYCODE && (event.which !== ARROW_DOWN_KEYCODE && event.which !== ARROW_UP_KEYCODE || $$$1(event.target).closest(Selector.MENU).length) : !REGEXP_KEYDOWN.test(event.which)) {
+        if (/input|text_area/i.test(event.target.tagName) ? event.which === SPACE_KEYCODE || event.which !== ESCAPE_KEYCODE && (event.which !== ARROW_DOWN_KEYCODE && event.which !== ARROW_UP_KEYCODE || $$$1(event.target).closest(Selector.MENU).length) : !REGEXP_KEYDOWN.test(event.which)) {
           return;
         }
 

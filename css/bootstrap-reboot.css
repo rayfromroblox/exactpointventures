@@ -218,7 +218,7 @@ input,
 button,
 select,
 optgroup,
-textarea {
+text_area {
   margin: 0;
   font-family: inherit;
   font-size: inherit;
@@ -263,7 +263,7 @@ input[type="month"] {
   -webkit-appearance: listbox;
 }
 
-textarea {
+text_area {
   overflow: auto;
   resize: vertical;
 }
