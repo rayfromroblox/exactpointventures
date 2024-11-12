@@ -146,7 +146,7 @@ right: -221px;
 width: 30%;
    }
 
-.navbar-toggler { background-color: #ffffff; }
+.navbar-toggle { background-color: #ffffff; }
 .logo { width: 20%; }
 .navbar-expand-lg .navbar-nav .nav-link { padding-left: 16px; }
 .navbar-light .navbar-nav .nav-link { font-size: 16px; }
@@ -208,7 +208,7 @@ width: 30%;
     }
 
 
-.navbar-toggler { background-color: #ffffff; }
+.navbar-toggle { background-color: #ffffff; }
 .logo { width: 50%; }
 .header_section { background-size: cover; }
 .banner_section { padding-top: 20px; padding-bottom: 28PX; }
@@ -299,7 +299,7 @@ padding: 126px 40px;
     width: 55%;
 }
 
-.navbar-toggler { background-color: #ffffff; }
+.navbar-toggle { background-color: #ffffff; }
 .logo { width: 50%; }
 .header_section { background-size: cover; }
 .banner_section { background-size: cover; padding-top: 20px; }
@@ -421,7 +421,7 @@ ul.link li {
 }
 
 
-.navbar-toggler { background-color: #ffffff; }
+.navbar-toggle { background-color: #ffffff; }
 .logo { width: 50%; }
 .header_section { background-size: cover; }
 .banner_section { background-size: cover; padding-top: 20px; }

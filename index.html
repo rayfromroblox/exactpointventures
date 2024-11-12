@@ -8,6 +8,7 @@
       <!-- mobile metas -->
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
       <!-- site metas -->
       <title>Exact Point Ventures</title>
       <meta name="keywords" content="">
@@ -16,13 +17,19 @@
       <!-- bootstrap css -->
       <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
       <!-- style css -->
+         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
       <link rel="stylesheet" type="text/css" href="css/aboutusnew.css">
       <link rel="stylesheet" type="text/css" href="css/style.css">
          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
       <!-- Responsive-->
       <link rel="stylesheet" href="css/responsive.css">
       <!-- favicon -->
-      <link rel="icon" href="images/favicon-16x16.png" type="image/gif" />
+      <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+      <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+      <link rel="shortcut icon" href="/favicon.ico" />
+      <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+      <meta name="apple-mobile-web-app-title" content="Exact Point Ventures" />
+      <link rel="manifest" href="/site.webmanifest" />
       <!-- Scrollbar Custom CSS -->
       <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
       <!-- Tweaks for older IEs-->
@@ -31,6 +38,7 @@
       <link rel="stylesheet" href="css/owl.carousel.min.css">
       <link rel="stylesheet" href="css/owl.theme.default.min.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
    </head>
    <body>
       <!-- header section start -->
@@ -39,8 +47,8 @@
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                <div class="logo"><a href="index.html"><img src="images/exactlogoblack.png"></a></div>
-               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-               <span class="navbar-toggler-icon"></span>
+               <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+               <span class="navbar-toggle-icon"></span>
                </button>
                <div class="collapse navbar-collapse" id="navbarSupportedContent">
                   <ul class="navbar-nav mr-auto">
@@ -63,11 +71,12 @@
       </div>
       <!-- header section end -->
       <!-- about section start -->
-<h1 class="thisisheading">MACHINERY, SCRAP, STEEL AND GLASS. FOR YOU</h1>
-<div class="about_section layout_padding">
+<div class="transition-container">
+<h1 class="this_is_heading">MACHINERY, SCRAP, STEEL AND GLASS. FOR YOU</h1>
+<div class="about_section layout_padding about_section_custom">
    <div class="v-center">
 
-      <article>
+      <article class="about_card">
          <div class="front">
             <div class="text">
                <h7>What We Offer:</h7>
@@ -80,7 +89,7 @@
          </div>
       </article>
 
-      <article>
+      <article class="about_card">
          <div class="front">
             <div class="text">
                <h7>What We Do:</h7>
@@ -94,7 +103,7 @@
       </article>
       <br>
 
-      <article class="thirdarticle" >
+      <article class="about_card thirdarticle">
          <div class="front">
             <div class="text">
                <h7>Our Mission:</h7>
@@ -109,16 +118,15 @@
 
    </div>
 </div>
-
-      <!-- about section end -->
+<!-- about section end -->
 <!-- services section start -->
-<div class="services_section layout_padding">
+<div class="services_section layout_padding services_section_custom">
    <div class="container">
       <h1 class="services_total">our services</h1>
       <p class="many_total">These are some of the services we offer:</p>
       <div class="services_section2 layout_padding">
          <div class="row justify-content-center">
-            <div class="col-lg-3 col-sm-6 text-center">
+            <div class="col-lg-3 col-sm-6 text-center service_card">
                <div class="icon_1"><img src="images/icon-1.png" alt="Furniture"></div>
                <h2 class="furniture_text">Furniture</h2>
                <p class="dummy_text">We offer a wide range of furniture, from comfortable sofas to elegant dining tables.</p>
@@ -126,7 +134,7 @@
                   <div class="read_bt"><a href="contact.html?service=Furniture">INQUIRE</a></div>
                </div>
             </div>
-            <div class="col-lg-3 col-sm-6 text-center">
+            <div class="col-lg-3 col-sm-6 text-center service_card">
                <div class="icon_1"><img src="images/icon-2.png" alt="Office"></div>
                <h2 class="furniture_text">Office</h2>
                <p class="dummy_text">We offer a wide range of office essentials, from ergonomic chairs to functional desks.</p>
@@ -134,7 +142,7 @@
                   <div class="read_bt"><a href="contact.html?service=Office">INQUIRE</a></div>
                </div>
             </div>
-            <div class="col-lg-3 col-sm-6 text-center">
+            <div class="col-lg-3 col-sm-6 text-center service_card">
                <div class="icon_1"><img src="images/icon-3.png" alt="Home"></div>
                <h2 class="furniture_text">Home</h2>
                <p class="dummy_text">We offer a wide range of home essentials, from comfortable sofas to stylish dining tables.</p>
@@ -146,17 +154,19 @@
       </div>
    </div>
 </div>
+</div>
 <!-- services section end -->
 
 
-      <!-- who section start -->
-      <div class="who_section layout_padding">
-         <div class="container">
-            <h1 class="who_total">who we are ?</h1>
-            <h4 class="designer_text">TRADERS & INNOVATORS</h4>
-            <p class="who_we_are">Exact Point Ventures specializes in acquiring, redistributing, and repurposing industrial assets, including machinery, generators, shipping containers, and cold storage equipment, while promoting sustainability through scrap metal recycling. </div>
-      </div>
-      <!-- who section end -->
+<!-- who section start -->
+<div class="who_section layout_padding who_section_custom">
+   <div class="container">
+      <h1 class="who_total">who we are ?</h1>
+      <h4 class="designer_text">TRADERS & INNOVATORS</h4>
+      <p class="who_we_are">Exact Point Ventures specializes in acquiring, redistributing, and repurposing industrial assets, including machinery, generators, shipping containers, and cold storage equipment, while promoting sustainability through scrap metal recycling.</p>
+   </div>
+</div>
+<!-- who section end -->
       <!-- projects section start -->
       <div class="projects_section layout_padding">
          <div class="container">
@@ -288,7 +298,6 @@
                   </p>
                </div>
             </div>
-
          </div>
       </div>
       <!--  footer section end -->

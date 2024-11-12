@@ -1940,7 +1940,7 @@
       DATA_DISMISS: '[data-dismiss="modal"]',
       FIXED_CONTENT: '.fixed-top, .fixed-bottom, .is-fixed, .sticky-top',
       STICKY_CONTENT: '.sticky-top',
-      NAVBAR_TOGGLER: '.navbar-toggler'
+      NAVBAR_toggle: '.navbar-toggle'
       /**
        * ------------------------------------------------------------------------
        * Class Definition
@@ -2317,9 +2317,9 @@
             var actualMargin = $$$1(element)[0].style.marginRight;
             var calculatedMargin = $$$1(element).css('margin-right');
             $$$1(element).data('margin-right', actualMargin).css('margin-right', parseFloat(calculatedMargin) - _this9._scrollbarWidth + "px");
-          }); // Adjust navbar-toggler margin
+          }); // Adjust navbar-toggle margin
 
-          $$$1(Selector.NAVBAR_TOGGLER).each(function (index, element) {
+          $$$1(Selector.NAVBAR_toggle).each(function (index, element) {
             var actualMargin = $$$1(element)[0].style.marginRight;
             var calculatedMargin = $$$1(element).css('margin-right');
             $$$1(element).data('margin-right', actualMargin).css('margin-right', parseFloat(calculatedMargin) + _this9._scrollbarWidth + "px");
@@ -2339,9 +2339,9 @@
           if (typeof padding !== 'undefined') {
             $$$1(element).css('padding-right', padding).removeData('padding-right');
           }
-        }); // Restore sticky content and navbar-toggler margin
+        }); // Restore sticky content and navbar-toggle margin
 
-        $$$1(Selector.STICKY_CONTENT + ", " + Selector.NAVBAR_TOGGLER).each(function (index, element) {
+        $$$1(Selector.STICKY_CONTENT + ", " + Selector.NAVBAR_toggle).each(function (index, element) {
           var margin = $$$1(element).data('margin-right');
 
           if (typeof margin !== 'undefined') {
