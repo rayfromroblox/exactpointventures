@@ -7,50 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6427cc4-3396-467f-b337-4e19664b03a7" name="Changes" comment="minor changes, improved contact.html">
-      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/style.css" afterDir="false" />
+    <list default="true" id="e6427cc4-3396-467f-b337-4e19664b03a7" name="Changes" comment="major changes, improved UI, Contact.html subject fill, mobile responsiveness">
       <change beforePath="$PROJECT_DIR$/html/images/pic6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/html/images/pic6.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/shop.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/pic6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic6.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +125,7 @@
       <workItem from="1731405077747" duration="264000" />
       <workItem from="1731405360023" duration="5363000" />
       <workItem from="1731411478059" duration="2438000" />
-      <workItem from="1731442905658" duration="791000" />
+      <workItem from="1731442905658" duration="1136000" />
     </task>
     <task id="LOCAL-00001" summary="removed the newsletter thing on all pages">
       <option name="closed" value="true" />
@@ -256,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731106138478</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="major changes, improved UI, Contact.html subject fill, mobile responsiveness">
+      <option name="closed" value="true" />
+      <created>1731443906854</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731443906854</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,6 +237,7 @@
     <MESSAGE value="MOBILE RESPONSIVE YES!" />
     <MESSAGE value="minor changes made" />
     <MESSAGE value="minor changes, improved contact.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor changes, improved contact.html" />
+    <MESSAGE value="major changes, improved UI, Contact.html subject fill, mobile responsiveness" />
+    <option name="LAST_COMMIT_MESSAGE" value="major changes, improved UI, Contact.html subject fill, mobile responsiveness" />
   </component>
 </project>
